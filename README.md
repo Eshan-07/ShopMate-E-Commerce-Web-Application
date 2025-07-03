@@ -34,6 +34,8 @@
 
 ## Screenshots
 ![WhatsApp Image 2025-04-22 at 09 16 09_62597da3](https://github.com/user-attachments/assets/c1ef184f-57bf-48be-8671-fbc3cd1e2457)
+![WhatsApp Image 2025-04-22 at 09 18 35_94f631b0](https://github.com/user-attachments/assets/da028058-b3ea-43dd-870f-1c5d6981afe3)
+![WhatsApp Image 2025-04-22 at 09 17 19_42420c6f](https://github.com/user-attachments/assets/97c08008-8227-4e90-a3a3-8bff05179250)
 
 
 
