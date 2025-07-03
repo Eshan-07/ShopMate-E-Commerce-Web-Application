@@ -32,6 +32,8 @@
 | Build Tool        | Apache Maven                              |
 | Deployment Tools  | Docker (for containerization), GitHub     |
 
+## Screenshots
+![WhatsApp Image 2025-04-22 at 09 16 09_62597da3](https://github.com/user-attachments/assets/c1ef184f-57bf-48be-8671-fbc3cd1e2457)
 
 
 
